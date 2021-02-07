@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_nav_btn"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="HOME"
+    />
+    <item
+        android:id="@+id/favorite_nav_btn"
+        android:icon="@drawable/ic_favourite"
+        android:title="FAVORITE"
+        />
+
+    <item
+        android:id="@+id/sport_nav_btn"
+        android:icon="@drawable/ic_baseline_sports_24"
+        android:title="Sports"
+        />
+    <item
+        android:id="@+id/life_nav_btn"
+        android:icon="@drawable/ic_baseline_people_outline_24"
+        android:title="life"
+        />
+    <item
+        android:id="@+id/love_nav_btn"
+        android:icon="@drawable/ic_baseline_love_24"
+        android:title="love"
+        />
+    <item
+        android:id="@+id/time_nav_btn"
+        android:icon="@drawable/ic_baseline_av_time_24"
+        android:title="time"
+        />
+
+    <item
+        android:id="@+id/remove_nav_btn"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="Remove All Favourite List"
+        />
+
+</menu>
