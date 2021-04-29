@@ -1,4 +1,7 @@
 # Book-Search-APP
-The application allows browsing books from several categories and saves your favourite books
-Volley library used to retrieve the data from API 
-SQLite for restoring the favourite books
+Browse several books from several categories and add any of them to your favourite list.
+Volley library.
+API.
+SQLite.
+Picasso library.
+
